@@ -1,7 +1,7 @@
 ppy.js
 ======
 
-my javascript framework
+my javascript library
 
 
-遵循了jQuery的设计思路写的一个不太成熟的javascript框架
+遵循了jQuery的设计思路写的一个mini的javascript类库
